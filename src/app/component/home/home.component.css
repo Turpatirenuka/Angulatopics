@@ -1,0 +1,43 @@
+ /* normal method start */
+ h1{
+    text-align: center;
+    color:rgb(184, 184, 231);
+    background-color: rgb(12, 122, 165);
+}
+/* normal method end */
+
+/* Interpolation method start */
+h3{
+    background-color: rgb(55, 212, 173);
+    text-align: center;
+    font-size: 30px;
+    font-family: elephant;
+}
+/* one way class binding end */
+
+/* one way class binding start */
+.cbcss{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    background-color: rgb(128, 207, 238);
+}
+/* one way class binding end */
+/* one way double class binding start */
+.cbcss1{
+    text-align: center;
+    background-color: rgb(48, 201, 227);
+}
+.cbcss2{
+    color:rgb(19, 46, 70)
+}
+/* one way double class binding end */
+/* one way binding interpolation start */
+.Renu{
+    text-align: center;
+    background-color: black;
+}
+.Sriram{
+    color:aliceblue
+}
+
